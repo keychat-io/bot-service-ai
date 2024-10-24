@@ -22,16 +22,19 @@ export class QueueService {
         port: process.env.REDIS_PORT,
       },
       isWorker: true,
+      removeOnSuccess: true,
+      removeOnFailure: true,
     });
-    this.queue.process(async (job, done) => {
+    this.queue.process(10, async (job, done) => {
       this.logger.log(`Processing job: ${job.id} ${JSON.stringify(job.data)}`);
       await this.gptService.proccessChat(job.data as ChatInputParams);
+      this.logger.log(`Processed ${job.id}`);
       done(null, job.data);
     });
   }
 
   async addJob(job: ChatInputParams) {
-    this.logger.log(`Adding job: ${job}`);
-    await this.queue.createJob(job).save();
+    this.logger.log(`Adding job: ${JSON.stringify(job)}`);
+    await this.queue.createJob(job).timeout(15000).save();
   }
 }

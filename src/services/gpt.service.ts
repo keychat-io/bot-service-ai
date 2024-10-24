@@ -29,17 +29,6 @@ export class GPTService {
   }
 
   async proccessChat(input: ChatInputParams): Promise<string> {
-    const exist = await this.redisService
-      .getClient()
-      .setnx(`eventId:${input.eventId}`, 1);
-    if (exist == 0) {
-      this.logger.error(`Proccessed: ${input.eventId}`);
-      return;
-    }
-    await this.redisService
-      .getClient()
-      .expire(`eventId:${input.eventId}`, 3600 * 24 * 30);
-
     // try keychat hello message
     try {
       const map = JSON.parse(input.clientMessageDto.content);
