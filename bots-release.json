@@ -12,12 +12,5 @@
     "npub": "npub1x65uh0gkgehkffxe30r3usu2jrqckhqpwsdv9uhtvgfktfqka8msqaaz2g",
     "hex": "36a9cbbd16466f64a4d98bc71e438a90c18b5c01741ac2f2eb621365a416e9f7",
     "description": "I am a chatbot that can help you with your queries."
-  },
-  {
-    "name": "BTC Master /1sat",
-    "type": "Chatbot",
-    "npub": "npub1c2kacyrrktaauc6pfung7xn0zdudw7qver7zzv93kqss67kkgcfqh865f8",
-    "hex": "c2addc1063b2fbde63414f268f1a6f1378d7780cc8fc2130b1b0210d7ad64612",
-    "description": "An informational bitcoin robot, powered by btcstudy.org and other qualified bitcoin websites, hence able to provide precise answers for your questions about bitcoin, from technology, to culture. 1 Sat for every question, tell you why should we HOLD bitcoin"
   }
 ]
