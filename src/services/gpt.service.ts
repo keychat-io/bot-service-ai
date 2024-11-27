@@ -8,6 +8,7 @@ import { MessageService } from './message.service';
 import metadata from '../config/metadata.json';
 import { ClientMessageDto } from 'src/dto/client_message.dto';
 import { RedisService } from './redis.service';
+import { ChatAnthropic } from '@langchain/anthropic';
 
 @Injectable()
 export class GPTService {
@@ -62,12 +63,7 @@ export class GPTService {
       return;
     }
     this.logger.log(`Payment Success ${input.eventId}`);
-    const model = new ChatOpenAI({
-      model: selectedModel.name.toLowerCase(),
-      temperature: 0.5,
-      openAIApiKey: process.env.OPENAI_API_KEY,
-      maxTokens: 512,
-    });
+    const model = this.getModelByName(selectedModel.name.toLowerCase());
     const memory = this.getSession(selectedModel.name, input.from);
     const chain = new ConversationChain({ llm: model, memory });
     const res = await chain.invoke({
@@ -78,6 +74,28 @@ export class GPTService {
     this.messageService.sendMessageToClient(input.to, input.from, res.response);
     return 'response';
   }
+
+  getModelByName(name: string) {
+    if (name.startsWith('gpt')) {
+      return new ChatOpenAI({
+        model: name,
+        temperature: 0.5,
+        openAIApiKey: process.env.OPENAI_API_KEY,
+        maxTokens: 512,
+      });
+    }
+
+    if (name.startsWith('claude'))
+      return new ChatAnthropic({
+        model: 'claude-3-5-sonnet-20241022',
+        temperature: 0.5,
+        maxTokens: 512,
+        maxRetries: 2,
+        anthropicApiKey: process.env.ANTHROPIC_API_KEY,
+      });
+    throw new Error('Model not found');
+  }
+
   async receiveEcash(
     selectedModel: {
       name: string;

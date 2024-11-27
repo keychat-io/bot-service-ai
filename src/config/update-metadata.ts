@@ -24,7 +24,7 @@ async function main() {
       );
       console.log(`${key} ${JSON.stringify(response.data)}`);
     } catch (error) {
-      console.log(`error ${key}: ${error.response.data}`);
+      console.log(`error ${key}: ${JSON.stringify(error.response.data)}`);
     }
   }
 }

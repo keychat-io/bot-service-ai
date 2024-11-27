@@ -22,6 +22,7 @@
     "deploy:restart": "git pull origin && nest build && pm2 restart gpt-bot-service"
   },
   "dependencies": {
+    "@langchain/anthropic": "^0.3.7",
     "@langchain/community": "^0.3.2",
     "@langchain/core": "^0.3.3",
     "@langchain/openai": "^0.3.0",
