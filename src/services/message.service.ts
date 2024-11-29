@@ -158,6 +158,19 @@ export class MessageService {
     ) {
       return this.proccessCommand(neo, ccd);
     }
+    try {
+      const map = JSON.parse(ccd.content);
+      if (map['c'] == 'signal' && map['type'] == 101) {
+        return this.sendMessageToClient(
+          neo.to,
+          neo.from,
+          "Great, let's get started! You can ask me any question.",
+        );
+      }
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    } catch (error) {
+      this.logger.error('Invalid JSON');
+    }
     // start chat job
     this.queueService.addJob({
       eventId: neo.id,
