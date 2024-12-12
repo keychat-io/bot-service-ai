@@ -6,6 +6,26 @@
 * Receive any text from client app, and send response
 * Perform charging operations, receive ecash token
 
+## Diagram
+
+```mermaid
+sequenceDiagram
+    BotService->>+BotService: Launch
+    BotCenter->>+BotCenter: setup params: name, prices, description...
+    BotService-->>+Relay: update metadata
+    BotCenter-->>Relay: listen pubkey
+    User -->> Relay: fetch metadata
+    User -->> User: Dialog to confirm charge info
+    User -) Relay: send encrypted message
+    Relay-->>+BotCenter: fetch message
+    BotCenter-->>+BotCenter: decrypt message
+    BotService-->>+BotCenter: receive ecash token
+    BotCenter-)BotService: push decryptedMessage to BotService
+    BotService-->>+BotCenter: Send message
+    BotCenter-->>Relay: encrypt message and send
+    Relay-)User: fetch message
+  ```
+
 ## Project setup
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
@@ -34,8 +54,12 @@ $ yarn run start:prod
 1. Connect to relay, receive and send messages
 2. Maintain an ecash wallet and provide payment API
 
-## Set Bot Metadata
-Once set, the app will recognize this account as a bot.
+## a. Set the Bot Metadata
+Once set success, the keychat app will recognize this account as a bot.
+
+Command: `ts-node src/config/update-metadata.ts`
+
+or
 
 ```
 curl -X POST -H 'Content-type: application/json' --data '{"name":"ChatGPT","type":"Chatbot","description":"I am an AI-powered assistant designed to help answer a variety of questions and provide information.I can assist you in acquiring knowledge, explaining concepts, offering advice, and even help with simple calculations or translations.","commands":[{"name":"/h","description":"Show help message"},{"name":"/m","description":"Which model do you prefer, GPT-4o or 4o-mini?"}],"botPricePerMessageRequest":{"type":"botPricePerMessageRequest","message":"I am an AI-powered assistant designed to help answer a variety of questions and provide information. I can assist you in acquiring knowledge, explaining concepts, offering advice, and even help with simple calculations or translations.\n\nYou need to pay in ecash for each message sent. Please select a model to start chat","priceModels":[{"name":"GPT-4o-mini","description":"","price":1,"unit":"sat","mints":[]},{"name":"GPT-4o","description":"","price":4,"unit":"sat","mints":[]},{"name":"GPT-4-Turbo","description":"","price":8,"unit":"sat","mints":[]}]}}' http://0.0.0.0:5001/metadata/2714ef65b4f14c5c74b1d817eefcc1a994835de3034bfd2d5e2d3e8abbbadf32
@@ -45,9 +69,10 @@ Success
 {"code":200,"error":null,"data":"4433dec54c89fcc97d28049ffdc1b88ca5a61a1be5a4890719615bf4ebdf50f6"}
 ```
 
-## DTO
-Message from BotCenter
-
+## Chat with your bot
+1. Send message to bot use keychat app
+2. BotCenter will receive your message and decrypt it.
+3. BotCenter will call your service with user's data
 ```json
 {
   "id": "id1234",
@@ -59,6 +84,8 @@ Message from BotCenter
   "sig": "sig123"
 }
 ```
+4. BotService decode `decryptedDontent`
+5. Make response: send a message to user 
 
 ### Message Struct 
 
