@@ -1,0 +1,969 @@
+{
+  "browserRecommend": [
+    {
+      "title": "GIF Buddy",
+      "description": "Nostrify gifs",
+      "img": "https://pfp.nostr.build/3397a8a2c96e5cca91b440d9829a10efa252f87a8a8d801787583e9fd4cba824.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "GIF Buddy Nostrify gifs https://gifbuddy.lol/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://gifbuddy.lol/"
+    },
+    {
+      "title": "Pinstr",
+      "description": "Like Pinterest but on nostr with zaps",
+      "img": "https://cdn.satellite.earth/20fa5c2237ff9a1f2d34ffa73cbb8d8d38c048efea658baf81baad857f850d33.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management",
+        "curation"
+      ],
+      "fulltext": "Pinstr Like Pinterest but on nostr with zaps https://pinstr.app/ https://github.com/sepehr-safari/pinstr",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/sepehr-safari/pinstr",
+      "url1": "https://pinstr.app/"
+    },
+    {
+      "title": "Nostrends",
+      "description": "See what's trending on Nostr",
+      "img": "https://cdn.satellite.earth/8eb3b7475962a4d9bd907bb28731835a4ecd93da7071091aeeb6fe3de89d201e.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nostrends See what's trending on Nostr https://nostrends.vercel.app/ https://github.com/akiomik/nostrends",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/akiomik/nostrends",
+      "url1": "https://nostrends.vercel.app/"
+    },
+    {
+      "title": "Nostr Connect",
+      "description": "Simple nostr signer",
+      "img": "https://cdn.satellite.earth/77b8ee1524761f99c825ef7c48fada261c94a1de60470cce6c57c3c9d96e30db.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "signers"
+      ],
+      "fulltext": "Nostr Connect Simple nostr signer https://chromewebstore.google.com/detail/nostr-connect/ampjiinddmggbhpebhaegmjkbbeofoaj",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://chromewebstore.google.com/detail/nostr-connect/ampjiinddmggbhpebhaegmjkbbeofoaj"
+    },
+    {
+      "title": "Nsec App",
+      "description": "Use Nostr apps safely",
+      "img": "https://cdn.satellite.earth/601a58f69b180265ac2571a74777d13d95a34318c04ef2a9829c1584fcfb9eed.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "signers"
+      ],
+      "fulltext": "Nsec App Use Nostr apps safely https://nsec.app/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nsec.app/"
+    },
+    {
+      "title": "Flycat",
+      "description": "Explore Nostr universe and long form content",
+      "img": "https://cdn.satellite.earth/4e2a16023e0fbfa97c5dcf514331893452024f999489e383114680b46c5a6e4c.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social",
+        "blogging"
+      ],
+      "fulltext": "Flycat Explore Nostr universe and long form content https://flycat.club/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://flycat.club/"
+    },
+    {
+      "title": "Zaplife",
+      "description": "See who zaps who on Nostr",
+      "img": "https://cdn.satellite.earth/4bdf13ef448d784a7935608dba45155be261787cf95d1e24e61c6b841635d473.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Zaplife See who zaps who on Nostr https://zaplife.lol/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://zaplife.lol/"
+    },
+    {
+      "title": "Yakihonne",
+      "description": "Publish and curate long-form content",
+      "img": "https://cdn.satellite.earth/4c63603f9e9539a230d0cdb3657f9d2185830209056b7c2b38f95bfd603cca79.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "blogging"
+      ],
+      "fulltext": "Yakihonne Publish and curate long-form content https://yakihonne.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://yakihonne.com/"
+    },
+    {
+      "title": "Shopstr",
+      "description": "Buy and sell for sats over nostr",
+      "img": "https://cdn.satellite.earth/548fb6eb0ce5def851fb6d0dabf0e0e31d427abc23fb10fd2ea3838724886202.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "marketplace"
+      ],
+      "fulltext": "Shopstr Buy and sell for sats over nostr https://shopstr.store/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://shopstr.store/"
+    },
+    {
+      "title": "Coracle",
+      "description": "Nostr, the easy way.",
+      "img": "https://coracle-media.us-southeast-1.linodeobjects.com/logomark-light.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Coracle Nostr, the easy way. https://coracle.social https://github.com/coracle-social/coracle",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/coracle-social/coracle",
+      "url1": "https://coracle.social"
+    },
+    {
+      "title": "Nostr Band",
+      "description": "Nostr data and statistics advanced search.",
+      "img": "https://cdn.satellite.earth/f3088e283f25a4542417178a9f8906296ff9117b9a29c55d1caf793b618ae19c.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nostr Band Nostr data and statistics advanced search. https://nostr.band/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nostr.band/"
+    },
+    {
+      "title": "Nostter",
+      "description": "Calm social client",
+      "img": "https://cdn.satellite.earth/5ffa60e1d900cdaf31fca109eb7f18e715b692cf8d941b16a639a01389a8847b.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Nostter Calm social client https://nostter.app/ https://github.com/SnowCait/nostter",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/SnowCait/nostter",
+      "url1": "https://nostter.app/"
+    },
+    {
+      "title": "Habla",
+      "description": "A long form content client for nostr notes",
+      "img": "https://cdn.satellite.earth/270694a2f68d486a4f97dfafed7622839869a8759161dfe9946f64a1418a1885.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "blogging"
+      ],
+      "fulltext": "Habla A long form content client for nostr notes https://habla.news/ https://github.com/verbiricha/habla",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/verbiricha/habla",
+      "url1": "https://habla.news/"
+    },
+    {
+      "title": "Nostrrr",
+      "description": "Nostr relay explorer",
+      "img": "https://cdn.satellite.earth/cf6aab242ddd4435fa439c89f0b36937030c4a3ace847cc1eb9dd6474a832bff.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nostrrr Nostr relay explorer https://nostrrr.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nostrrr.com/"
+    },
+    {
+      "title": "npub.pro",
+      "description": "Website from your nostr content",
+      "img": "https://cdn.satellite.earth/47d5e9ee499e816d06ef5b5920b5922259becc035df51df542293f3c036d5996.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management",
+        "blogging"
+      ],
+      "fulltext": "npub.pro Website from your nostr content https://npub.pro/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://npub.pro/"
+    },
+    {
+      "title": "Wired",
+      "description": "An anonymous-first agora",
+      "img": "https://cdn.satellite.earth/93e7059163148050b8906a3f7afa1cdcf145c9c731bd30a0dd4357794c0926d1.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social",
+        "privacy"
+      ],
+      "fulltext": "Wired An anonymous-first agora https://www.getwired.app/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://www.getwired.app/"
+    },
+    {
+      "title": "Oddbean",
+      "description": "Hacker News style client",
+      "img": "https://cdn.satellite.earth/edca834d3b87bceb516bec386ad300b05ab36e74a352fd2c1f1a8e3078b2deb7.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Oddbean Hacker News style client https://oddbean.com/ https://github.com/hoytech",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/hoytech",
+      "url1": "https://oddbean.com/"
+    },
+    {
+      "title": "Plebeian Market",
+      "description": "Buy and sell stuff for sats",
+      "img": "https://cdn.satellite.earth/792280c1ef9699589aa713692b727f2865630d8104a5fb04e4e40c9bddca54ec.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "marketplace"
+      ],
+      "fulltext": "Plebeian Market Buy and sell stuff for sats https://plebeian.market/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://plebeian.market/"
+    },
+    {
+      "title": "zap.stream",
+      "description": "Live stream and zap",
+      "img": "https://cdn.satellite.earth/71dcbdc1413713d148c18d92e3b66ceaef78919cba4bfbab6086d42f9cc12a96.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "streaming",
+        "video"
+      ],
+      "fulltext": "zap.stream Live stream and zap https://zap.stream/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://zap.stream/"
+    },
+    {
+      "title": "SatShoot",
+      "description": "Freelance for sats on Nostr",
+      "img": "https://image.nostr.build/43b219f4d0931ba751aea6b3abacbe36d174a2d3f59c56dfa1e438d83c9b318e.jpg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "freelancing",
+        "troubleshooting",
+        "career",
+        "marketplaces"
+      ],
+      "fulltext": "SatShoot Freelance for sats on Nostr https://satshoot.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://satshoot.com/"
+    },
+    {
+      "title": "Shipyard",
+      "description": "Schedule notes",
+      "img": "https://cdn.satellite.earth/e91ca1e8fbab281cb08668fe4860875c84299fb726228bc8c64e6e9ba326a6dc.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management",
+        "blogging"
+      ],
+      "fulltext": "Shipyard Schedule notes https://shipyard.pub/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://shipyard.pub/"
+    },
+    {
+      "title": "Chachi",
+      "description": "A group chat and generic NIP-29 group posts client",
+      "img": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://chachi.chat/&size=256",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "group-chat"
+      ],
+      "fulltext": "Chachi A group chat and generic NIP-29 group posts client https://chachi.chat https://git.v0l.io/verbiricha/chachi",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://git.v0l.io/verbiricha/chachi",
+      "url1": "https://chachi.chat"
+    },
+    {
+      "title": "Nosta",
+      "description": "Simple, guided nostr onboarding",
+      "img": "https://cdn.satellite.earth/efcb1b9c6d1d3f8238ba2e7c083e058e36f9f039f7aef42e231961555a76b2da.jpg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nosta Simple, guided nostr onboarding https://nosta.me/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nosta.me/"
+    },
+    {
+      "title": "Formstr",
+      "description": "Create and share forms",
+      "img": "https://cdn.satellite.earth/a7cdfbf9fad0fcd1ad67a2e2511f3c2c9977f9ed2ecac7f55d77ff938a84a2e2.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Formstr Create and share forms https://formstr.app/ https://github.com/abhay-raizada/nostr-forms",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/abhay-raizada/nostr-forms",
+      "url1": "https://formstr.app/"
+    },
+    {
+      "title": "Listr",
+      "description": "Create nostr lists",
+      "img": "https://cdn.satellite.earth/b6225467a0cdf710d77b69e7fc82af692a758263f7f5cee31c8e5ccf72b54d95.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management",
+        "curation"
+      ],
+      "fulltext": "Listr Create nostr lists https://listr.lol/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://listr.lol/"
+    },
+    {
+      "title": "Stemstr",
+      "description": "Music collaboration and sharing client for producers and artists.",
+      "img": "https://cdn.satellite.earth/e8f203c7ba02892458b65b37df3cd91c5abd9e05793fe6c027923b7c9757610f.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "music"
+      ],
+      "fulltext": "Stemstr Music collaboration and sharing client for producers and artists. https://stemstr.app/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://stemstr.app/"
+    },
+    {
+      "title": "Nostrocket",
+      "description": "Separation of Business and State",
+      "img": "https://cdn.satellite.earth/0d405c31c16d931135fa206e7659abc7bbdf8c2115230bb98f14cbc4b075ab90.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nostrocket Separation of Business and State https://nostrocket.org/rockets",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nostrocket.org/rockets"
+    },
+    {
+      "title": "Alby",
+      "description": "Your bitcoin and nostr companion for the web",
+      "img": "https://cdn.satellite.earth/c37b7a44906ee3450b96e3b66e7320af08a5487f0e7b6b39728fdf5eb2ae57ea.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "money",
+        "signers"
+      ],
+      "fulltext": "Alby Your bitcoin and nostr companion for the web https://getalby.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://getalby.com/"
+    },
+    {
+      "title": "Nostree",
+      "description": "List and link aggregator.",
+      "img": "https://cdn.satellite.earth/93c90f7833cb0649fe6a04dd8c6eb9a22798497e299ee3f7c03349306aa2827c.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "curation",
+        "nostr-management"
+      ],
+      "fulltext": "Nostree List and link aggregator. https://nostree.me/ https://github.com/gzuuus/linktr-nostr",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/gzuuus/linktr-nostr",
+      "url1": "https://nostree.me/"
+    },
+    {
+      "title": "Wikifreedia",
+      "description": "a client for the wikipedia idea built on Nostr",
+      "img": "https://cdn.satellite.earth/064536fe832f87eb16e113ff227b61eb34ae4cd8e4ece3ef2b67d71257e52c71.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "writing"
+      ],
+      "fulltext": "Wikifreedia a client for the wikipedia idea built on Nostr https://wikifreedia.xyz/ https://github.com/pablof7z/wiki",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/pablof7z/wiki",
+      "url1": "https://wikifreedia.xyz/"
+    },
+    {
+      "title": "Keys Band",
+      "description": "Safe nsecs",
+      "img": "https://cdn.satellite.earth/9236649ee08f7ce60e4d061a37e6d56d986bb2bbb3b78faed494a224ba131a31.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "signers"
+      ],
+      "fulltext": "Keys Band Safe nsecs https://keys.band/ https://github.com/toastr-space/keys-band",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/toastr-space/keys-band",
+      "url1": "https://keys.band/"
+    },
+    {
+      "title": "Primal",
+      "description": "Multi-platform client",
+      "img": "https://cdn.satellite.earth/e38c2555c5125be2431728250555e073c950856e7873ea401df142b729f30813.svg",
+      "platforms": [
+        "web",
+        "android",
+        "ios"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Primal Multi-platform client https://primal.net/downloads",
+      "tag": [
+        "web",
+        "android",
+        "ios"
+      ],
+      "url2": "https://primal.net/downloads"
+    },
+    {
+      "title": "Bouquet",
+      "description": "A personal manager for Blossom media servers",
+      "img": "https://bouquet.slidestr.net/bouquet.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "file-sharing"
+      ],
+      "fulltext": "Bouquet A personal manager for Blossom media servers https://bouquet.slidestr.net/ https://git.v0l.io/florian/bouquet",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://git.v0l.io/florian/bouquet",
+      "url1": "https://bouquet.slidestr.net/"
+    },
+    {
+      "title": "Openvibe",
+      "description": "Interact with anyone on the open internet.",
+      "img": "https://cdn.satellite.earth/8e1a5dc395a0146061da2f41433c9e04f9a98cd12a2bd95218fc7a0f9fd85b56.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Openvibe Interact with anyone on the open internet. https://openvibe.social/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://openvibe.social/"
+    },
+    {
+      "title": "Yondar",
+      "description": "The social map",
+      "img": "https://cdn.satellite.earth/7780bdeea69b4062e8e559285c75b9a68cb41dc857ff0660845d999772152cc2.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "meatspace"
+      ],
+      "fulltext": "Yondar The social map https://go.yondar.me/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://go.yondar.me/"
+    },
+    {
+      "title": "Rabbit",
+      "description": "Multi-column layout client",
+      "img": "https://cdn.satellite.earth/35caf3ec824c5cf301c61d921e5e3cf3d12f9ef40e742e1ea26657cf3b093a9b.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Rabbit Multi-column layout client https://syusui-s.github.io/rabbit/#/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://syusui-s.github.io/rabbit/#/"
+    },
+    {
+      "title": "nos2x",
+      "description": "The OG signer",
+      "img": "https://cdn.satellite.earth/c27be7ca88098725d14ddb176dc56cc417edc5096d82fafe20a728ed9d1e20f2.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "signers"
+      ],
+      "fulltext": "nos2x The OG signer https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp"
+    },
+    {
+      "title": "Groups",
+      "description": "A relay-based NIP-29 group chat client",
+      "img": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://groups.nip29.com/&size=256",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "group-chat"
+      ],
+      "fulltext": "Groups A relay-based NIP-29 group chat client https://groups.nip29.com https://github.com/max21dev/groups",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/max21dev/groups",
+      "url1": "https://groups.nip29.com"
+    },
+    {
+      "title": "Flotilla",
+      "description": "Relay chat client",
+      "img": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://flotilla.social/&size=256",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "group-chat",
+        "direct-message"
+      ],
+      "fulltext": "Flotilla Relay chat client https://flotilla.social https://github.com/max21dev/groups",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/max21dev/groups",
+      "url1": "https://flotilla.social"
+    },
+    {
+      "title": "Highlighter",
+      "description": "Discover and share curated insights by people you trust",
+      "img": "https://cdn.satellite.earth/cea3aaa17c24a51bb4f18e3de40fab722c0393fd730045f577538e40844e8b7f.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management",
+        "curation",
+        "blogging",
+        "video"
+      ],
+      "fulltext": "Highlighter Discover and share curated insights by people you trust https://highlighter.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://highlighter.com/"
+    },
+    {
+      "title": "noStrudel",
+      "description": "The jack of all trades",
+      "img": "https://cdn.satellite.earth/c8d939904dbe80b2a36badace31914984b9459794550b1a557c43936f779af13.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "community",
+        "social",
+        "streaming",
+        "file-sharing",
+        "nostr-management"
+      ],
+      "fulltext": "noStrudel The jack of all trades https://nostrudel.ninja/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nostrudel.ninja/"
+    },
+    {
+      "title": "Nests",
+      "description": "Audio rooms",
+      "img": "https://cdn.satellite.earth/b28e30a02c235d81d6daa1ef8e58b12be886941760e55b4ac23527c8568d3d06.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "audio"
+      ],
+      "fulltext": "Nests Audio rooms https://nostrnests.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nostrnests.com/"
+    },
+    {
+      "title": "Zap Cooking",
+      "description": "Recipes over nostr",
+      "img": "https://cdn.satellite.earth/f1b9ba8e35154b3c591272985c1763896b516d080936958ab659f9b3e8122809.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "curation"
+      ],
+      "fulltext": "Zap Cooking Recipes over nostr https://zap.cooking/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://zap.cooking/"
+    },
+    {
+      "title": "Nosdrive",
+      "description": "Back up your notes to Google Drive",
+      "img": "https://cdn.satellite.earth/bf68854638a8b9bdb1edff42b0f3baac8b4c4c58726d3f3345c73daa02db6532.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nosdrive Back up your notes to Google Drive https://nosdrive.app/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nosdrive.app/"
+    },
+    {
+      "title": "Nostrame",
+      "description": "Nostr Account Management Extension",
+      "img": "https://image.nostr.build/453bef44562672bc893fed27530a3611dbe86c0ecfd2187edba863beab8fb6d3.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "signers",
+        "nostr-management"
+      ],
+      "fulltext": "Nostrame Nostr Account Management Extension https://chromewebstore.google.com/detail/nostrame/phfdiknibomfgpefcicfckkklimoniej",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://chromewebstore.google.com/detail/nostrame/phfdiknibomfgpefcicfckkklimoniej"
+    },
+    {
+      "title": "Emojito",
+      "description": "Create custom emoji sets",
+      "img": "https://cdn.satellite.earth/fac90a5973650cd728396e39d55a6b7b994fb91c7ad289b213195285285560b9.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Emojito Create custom emoji sets https://emojito.meme/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://emojito.meme/"
+    },
+    {
+      "title": "Wikistr",
+      "description": "A NIP-54 'wiki' client with multi-article view",
+      "img": "https://cdn.satellite.earth/5cc7feeacfa0433d221e6412cb723f0cefc5023dcfa0a459e1ca990731abca21.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "writing"
+      ],
+      "fulltext": "Wikistr A NIP-54 'wiki' client with multi-article view https://wikistr.com/ https://git.njump.me/wikistr",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://git.njump.me/wikistr",
+      "url1": "https://wikistr.com/"
+    },
+    {
+      "title": "Ostrich Work",
+      "description": "Job Board over Nostr",
+      "img": "https://cdn.satellite.earth/a333ac9cf4784ae3db3dd126dea1132e93a5433d66b34622e7f984a369b9979e.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "career"
+      ],
+      "fulltext": "Ostrich Work Job Board over Nostr https://ostrich.work/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://ostrich.work/"
+    },
+    {
+      "title": "Nostrmo",
+      "description": "A nostr client for iOS, Android, MacOS and Windows.",
+      "img": "https://cdn.satellite.earth/7b4e64c55494ba459cd40901394a56a9c67d308241ddaf40a0a44aa8578f5053.svg",
+      "platforms": [
+        "android",
+        "ios",
+        "desktop",
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Nostrmo A nostr client for iOS, Android, MacOS and Windows. https://apps.apple.com/us/app/nostrmo/id6447441761 https://github.com/haorendashu/nostrmo",
+      "tag": [
+        "android",
+        "ios",
+        "desktop",
+        "web"
+      ],
+      "url2": "https://github.com/haorendashu/nostrmo",
+      "url1": "https://apps.apple.com/us/app/nostrmo/id6447441761"
+    },
+    {
+      "title": "Slidestr",
+      "description": "Immersive media browsing",
+      "img": "https://cdn.satellite.earth/f6f748ac94361bc7454464d651c4caae28a540642f103712ade281da07c4ae7d.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "media"
+      ],
+      "fulltext": "Slidestr Immersive media browsing https://slidestr.net/ https://git.v0l.io/florian/nostr-slideshow",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://git.v0l.io/florian/nostr-slideshow",
+      "url1": "https://slidestr.net/"
+    },
+    {
+      "title": "Zapplepay",
+      "description": "Zap from any client 🖕",
+      "img": "https://cdn.satellite.earth/c98f7615f9b43184b524530f26809c9d6a52d637277a47c6a2700ee3949ae62c.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "money",
+        "nostr-management"
+      ],
+      "fulltext": "Zapplepay Zap from any client 🖕 https://www.zapplepay.com/ https://github.com/benthecarman/zapple-pay-backend",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/benthecarman/zapple-pay-backend",
+      "url1": "https://www.zapplepay.com/"
+    },
+    {
+      "title": "DTAN",
+      "description": "Decentralized torrents directory",
+      "img": "https://cdn.satellite.earth/1d0692530fec2818cd8b87d2cc5a3c297b2fb5b5d83171026745848e620165af.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "file-sharing"
+      ],
+      "fulltext": "DTAN Decentralized torrents directory https://dtan.xyz/ https://github.com/v0l",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/v0l",
+      "url1": "https://dtan.xyz/"
+    },
+    {
+      "title": "Pollerama",
+      "description": "Nostr polls",
+      "img": "https://cdn.satellite.earth/e7316fb7fdea488085364cb5124a8cecfc0d635d266056c518ae44e29e658a90.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Pollerama Nostr polls https://pollerama.fun/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://pollerama.fun/"
+    },
+    {
+      "title": "Nostr App Manager",
+      "description": "Discover nostr apps",
+      "img": "https://cdn.satellite.earth/0a901b92a7456714b319d32f7798ffcfa47aaedc17bb612cce62e1ce78448683.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Nostr App Manager Discover nostr apps https://nostrapp.link/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://nostrapp.link/"
+    },
+    {
+      "title": "Snort",
+      "description": "Make Nostr sexy",
+      "img": "https://cdn.satellite.earth/bcdaa1704da7ab79c222de2ad8197d148f925f53ce8cfc23ecfb5e83d976f9df.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Snort Make Nostr sexy https://snort.social/ https://github.com/v0l/snort",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/v0l/snort",
+      "url1": "https://snort.social/"
+    },
+    {
+      "title": "Badges Page",
+      "description": "A manager for your nostr badges",
+      "img": "https://cdn.satellite.earth/f3d1586f50b7fa832e27f568d102c0c059db9d61377c234e5435650380a76ecf.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr-management"
+      ],
+      "fulltext": "Badges Page A manager for your nostr badges https://badges.page/ https://github.com/verbiricha/badges",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/verbiricha/badges",
+      "url1": "https://badges.page/"
+    }
+  ],
+  "bots": [
+    {
+      "name": "GPT-4o-mini /1sat",
+      "type": "Chatbot",
+      "npub": "npub1yu2w7ed579x9ca93mqt7alxp4x2gxh0rqd9l6t2795lg4wa6mueqfsxw0t",
+      "hex": "2714ef65b4f14c5c74b1d817eefcc1a994835de3034bfd2d5e2d3e8abbbadf32",
+      "description": "I am a chatbot that can help you with your queries."
+    },
+    {
+      "name": "GPT-4o /8sat",
+      "type": "Chatbot",
+      "npub": "npub1x65uh0gkgehkffxe30r3usu2jrqckhqpwsdv9uhtvgfktfqka8msqaaz2g",
+      "hex": "36a9cbbd16466f64a4d98bc71e438a90c18b5c01741ac2f2eb621365a416e9f7",
+      "description": "I am a chatbot that can help you with your queries."
+    }
+  ]
+}
