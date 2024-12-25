@@ -42,7 +42,6 @@
       "url1": "https://www.vpnstr.com/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/vpnstr.jpeg",
       "categories": [
-        "AStar",
         "marketplace"
       ]
     },
@@ -517,22 +516,6 @@
       "url1": "https://bouquet.slidestr.net/"
     },
     {
-      "title": "Yondar",
-      "description": "The social map",
-      "img": "https://cdn.satellite.earth/7780bdeea69b4062e8e559285c75b9a68cb41dc857ff0660845d999772152cc2.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "meatspace"
-      ],
-      "fulltext": "Yondar The social map https://go.yondar.me/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://go.yondar.me/"
-    },
-    {
       "title": "Rabbit",
       "description": "Multi-column layout client",
       "img": "https://cdn.satellite.earth/35caf3ec824c5cf301c61d921e5e3cf3d12f9ef40e742e1ea26657cf3b093a9b.png",
@@ -575,7 +558,7 @@
         "web"
       ],
       "categories": [
-        "audio"
+        "music"
       ],
       "fulltext": "Nests Audio rooms https://nostrnests.com/",
       "tag": [
@@ -672,7 +655,7 @@
         "web"
       ],
       "categories": [
-        "media"
+        "writing"
       ],
       "fulltext": "Slidestr Immersive media browsing https://slidestr.net/ https://git.v0l.io/florian/nostr-slideshow",
       "tag": [
