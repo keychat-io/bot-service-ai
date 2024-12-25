@@ -2,19 +2,48 @@
   "browserRecommend": [
     {
       "title": "Iris",
-      "url": "https://iris.to/"
+      "url": "https://iris.to/",
+      "type": "social"
     },
     {
       "title": "Anonymous eSIM",
-      "url": "https://silent.link/#generic_price_table"
+      "url": "https://silent.link/#generic_price_table",
+      "type": "shop"
     },
     {
       "title": "Tetris",
-      "url": "https://chvin.github.io/react-tetris/"
+      "url": "https://chvin.github.io/react-tetris/",
+      "type": "game"
     },
     {
-      "title": "KeyChat",
-      "url": "https://www.keychat.io/"
+      "title": "Habla",
+      "url": "https://habla.news/",
+      "type": "social"
+    },
+    {
+      "title": "Coracle Social",
+      "url": "https://coracle.social/",
+      "type": "social"
+    },
+    {
+      "title": "Snort Social",
+      "url": "https://snort.social/",
+      "type": "social"
+    },
+    {
+      "title": "Shopstr",
+      "url": "https://shopstr.store/",
+      "type": "shop"
+    },
+    {
+      "title": "Primal",
+      "url": "https://primal.net/home",
+      "type": "social"
+    },
+    {
+      "title": "VPNSTR",
+      "url": "https://www.vpnstr.com/",
+      "type": "shop"
     }
   ],
   "bots": [
