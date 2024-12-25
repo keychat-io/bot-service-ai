@@ -6,7 +6,6 @@
       "url1": "https://iris.to/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/iris.png",
       "categories": [
-        "AStar",
         "social"
       ]
     },
@@ -16,7 +15,6 @@
       "url1": "https://silent.link/#generic_price_table",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/slient.jpg",
       "categories": [
-        "AStar",
         "marketplace"
       ]
     },
@@ -24,9 +22,8 @@
       "title": "Tetris",
       "description": "Tetris - A classic game",
       "url1": "https://chvin.github.io/react-tetris/",
-      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/game.png",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/game.png",
       "categories": [
-        "AStar",
         "game"
       ]
     },
@@ -34,9 +31,8 @@
       "title": "Stacker News",
       "description": "Internet communities that pay you Bitcoin",
       "url1": "https://stacker.news/",
-      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
       "categories": [
-        "AStar",
         "social"
       ]
     },
@@ -324,7 +320,6 @@
         "web"
       ],
       "categories": [
-        "streaming",
         "video"
       ],
       "fulltext": "zap.stream Live stream and zap https://zap.stream/",
@@ -341,8 +336,6 @@
         "web"
       ],
       "categories": [
-        "freelancing",
-        "troubleshooting",
         "career",
         "marketplace"
       ],
@@ -498,13 +491,13 @@
       "categories": [
         "social"
       ],
-      "fulltext": "Primal Multi-platform client https://primal.net/downloads",
+      "fulltext": "Primal Multi-platform client https://primal.net/",
       "tag": [
         "web",
         "android",
         "ios"
       ],
-      "url2": "https://primal.net/downloads"
+      "url2": "https://primal.net/"
     },
     {
       "title": "Bouquet",
@@ -522,22 +515,6 @@
       ],
       "url2": "https://git.v0l.io/florian/bouquet",
       "url1": "https://bouquet.slidestr.net/"
-    },
-    {
-      "title": "Openvibe",
-      "description": "Interact with anyone on the open internet.",
-      "img": "https://cdn.satellite.earth/8e1a5dc395a0146061da2f41433c9e04f9a98cd12a2bd95218fc7a0f9fd85b56.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "social"
-      ],
-      "fulltext": "Openvibe Interact with anyone on the open internet. https://openvibe.social/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://openvibe.social/"
     },
     {
       "title": "Yondar",
@@ -688,29 +665,6 @@
       "url2": "https://ostrich.work/"
     },
     {
-      "title": "Nostrmo",
-      "description": "A nostr client for iOS, Android, MacOS and Windows.",
-      "img": "https://cdn.satellite.earth/7b4e64c55494ba459cd40901394a56a9c67d308241ddaf40a0a44aa8578f5053.svg",
-      "platforms": [
-        "android",
-        "ios",
-        "desktop",
-        "web"
-      ],
-      "categories": [
-        "social"
-      ],
-      "fulltext": "Nostrmo A nostr client for iOS, Android, MacOS and Windows. https://apps.apple.com/us/app/nostrmo/id6447441761 https://github.com/haorendashu/nostrmo",
-      "tag": [
-        "android",
-        "ios",
-        "desktop",
-        "web"
-      ],
-      "url2": "https://github.com/haorendashu/nostrmo",
-      "url1": "https://apps.apple.com/us/app/nostrmo/id6447441761"
-    },
-    {
       "title": "Slidestr",
       "description": "Immersive media browsing",
       "img": "https://cdn.satellite.earth/f6f748ac94361bc7454464d651c4caae28a540642f103712ade281da07c4ae7d.svg",
@@ -777,22 +731,6 @@
         "web"
       ],
       "url2": "https://pollerama.fun/"
-    },
-    {
-      "title": "Nostr App Manager",
-      "description": "Discover nostr apps",
-      "img": "https://cdn.satellite.earth/0a901b92a7456714b319d32f7798ffcfa47aaedc17bb612cce62e1ce78448683.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "nostr-management"
-      ],
-      "fulltext": "Nostr App Manager Discover nostr apps https://nostrapp.link/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://nostrapp.link/"
     },
     {
       "title": "Snort",
