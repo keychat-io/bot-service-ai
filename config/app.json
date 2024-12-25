@@ -52,38 +52,6 @@
       "url1": "https://nostrends.vercel.app/"
     },
     {
-      "title": "Nostr Connect",
-      "description": "Simple nostr signer",
-      "img": "https://cdn.satellite.earth/77b8ee1524761f99c825ef7c48fada261c94a1de60470cce6c57c3c9d96e30db.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "signers"
-      ],
-      "fulltext": "Nostr Connect Simple nostr signer https://chromewebstore.google.com/detail/nostr-connect/ampjiinddmggbhpebhaegmjkbbeofoaj",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://chromewebstore.google.com/detail/nostr-connect/ampjiinddmggbhpebhaegmjkbbeofoaj"
-    },
-    {
-      "title": "Nsec App",
-      "description": "Use Nostr apps safely",
-      "img": "https://cdn.satellite.earth/601a58f69b180265ac2571a74777d13d95a34318c04ef2a9829c1584fcfb9eed.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "signers"
-      ],
-      "fulltext": "Nsec App Use Nostr apps safely https://nsec.app/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://nsec.app/"
-    },
-    {
       "title": "Flycat",
       "description": "Explore Nostr universe and long form content",
       "img": "https://cdn.satellite.earth/4e2a16023e0fbfa97c5dcf514331893452024f999489e383114680b46c5a6e4c.png",
@@ -352,23 +320,6 @@
       "url2": "https://shipyard.pub/"
     },
     {
-      "title": "Chachi",
-      "description": "A group chat and generic NIP-29 group posts client",
-      "img": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://chachi.chat/&size=256",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "group-chat"
-      ],
-      "fulltext": "Chachi A group chat and generic NIP-29 group posts client https://chachi.chat https://git.v0l.io/verbiricha/chachi",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://git.v0l.io/verbiricha/chachi",
-      "url1": "https://chachi.chat"
-    },
-    {
       "title": "Nosta",
       "description": "Simple, guided nostr onboarding",
       "img": "https://cdn.satellite.earth/efcb1b9c6d1d3f8238ba2e7c083e058e36f9f039f7aef42e231961555a76b2da.jpg",
@@ -451,23 +402,6 @@
       "url2": "https://nostrocket.org/rockets"
     },
     {
-      "title": "Alby",
-      "description": "Your bitcoin and nostr companion for the web",
-      "img": "https://cdn.satellite.earth/c37b7a44906ee3450b96e3b66e7320af08a5487f0e7b6b39728fdf5eb2ae57ea.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "money",
-        "signers"
-      ],
-      "fulltext": "Alby Your bitcoin and nostr companion for the web https://getalby.com/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://getalby.com/"
-    },
-    {
       "title": "Nostree",
       "description": "List and link aggregator.",
       "img": "https://cdn.satellite.earth/93c90f7833cb0649fe6a04dd8c6eb9a22798497e299ee3f7c03349306aa2827c.svg",
@@ -501,23 +435,6 @@
       ],
       "url2": "https://github.com/pablof7z/wiki",
       "url1": "https://wikifreedia.xyz/"
-    },
-    {
-      "title": "Keys Band",
-      "description": "Safe nsecs",
-      "img": "https://cdn.satellite.earth/9236649ee08f7ce60e4d061a37e6d56d986bb2bbb3b78faed494a224ba131a31.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "signers"
-      ],
-      "fulltext": "Keys Band Safe nsecs https://keys.band/ https://github.com/toastr-space/keys-band",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://github.com/toastr-space/keys-band",
-      "url1": "https://keys.band/"
     },
     {
       "title": "Primal",
@@ -605,57 +522,6 @@
       "url2": "https://syusui-s.github.io/rabbit/#/"
     },
     {
-      "title": "nos2x",
-      "description": "The OG signer",
-      "img": "https://cdn.satellite.earth/c27be7ca88098725d14ddb176dc56cc417edc5096d82fafe20a728ed9d1e20f2.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "signers"
-      ],
-      "fulltext": "nos2x The OG signer https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://chromewebstore.google.com/detail/nos2x/kpgefcfmnafjgpblomihpgmejjdanjjp"
-    },
-    {
-      "title": "Groups",
-      "description": "A relay-based NIP-29 group chat client",
-      "img": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://groups.nip29.com/&size=256",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "group-chat"
-      ],
-      "fulltext": "Groups A relay-based NIP-29 group chat client https://groups.nip29.com https://github.com/max21dev/groups",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://github.com/max21dev/groups",
-      "url1": "https://groups.nip29.com"
-    },
-    {
-      "title": "Flotilla",
-      "description": "Relay chat client",
-      "img": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://flotilla.social/&size=256",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "group-chat",
-        "direct-message"
-      ],
-      "fulltext": "Flotilla Relay chat client https://flotilla.social https://github.com/max21dev/groups",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://github.com/max21dev/groups",
-      "url1": "https://flotilla.social"
-    },
-    {
       "title": "Highlighter",
       "description": "Discover and share curated insights by people you trust",
       "img": "https://cdn.satellite.earth/cea3aaa17c24a51bb4f18e3de40fab722c0393fd730045f577538e40844e8b7f.svg",
@@ -673,26 +539,6 @@
         "web"
       ],
       "url2": "https://highlighter.com/"
-    },
-    {
-      "title": "noStrudel",
-      "description": "The jack of all trades",
-      "img": "https://cdn.satellite.earth/c8d939904dbe80b2a36badace31914984b9459794550b1a557c43936f779af13.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "community",
-        "social",
-        "streaming",
-        "file-sharing",
-        "nostr-management"
-      ],
-      "fulltext": "noStrudel The jack of all trades https://nostrudel.ninja/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://nostrudel.ninja/"
     },
     {
       "title": "Nests",
@@ -741,23 +587,6 @@
         "web"
       ],
       "url2": "https://nosdrive.app/"
-    },
-    {
-      "title": "Nostrame",
-      "description": "Nostr Account Management Extension",
-      "img": "https://image.nostr.build/453bef44562672bc893fed27530a3611dbe86c0ecfd2187edba863beab8fb6d3.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "signers",
-        "nostr-management"
-      ],
-      "fulltext": "Nostrame Nostr Account Management Extension https://chromewebstore.google.com/detail/nostrame/phfdiknibomfgpefcicfckkklimoniej",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://chromewebstore.google.com/detail/nostrame/phfdiknibomfgpefcicfckkklimoniej"
     },
     {
       "title": "Emojito",
