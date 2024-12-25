@@ -1,0 +1,36 @@
+{
+  "browserRecommend": [
+    {
+      "title": "Iris",
+      "url": "https://iris.to/"
+    },
+    {
+      "title": "Anonymous eSIM",
+      "url": "https://silent.link/#generic_price_table"
+    },
+    {
+      "title": "Tetris",
+      "url": "https://chvin.github.io/react-tetris/"
+    },
+    {
+      "title": "KeyChat",
+      "url": "https://www.keychat.io/"
+    }
+  ],
+  "bots": [
+    {
+      "name": "GPT-4o-mini /1sat",
+      "type": "Chatbot",
+      "npub": "npub1yu2w7ed579x9ca93mqt7alxp4x2gxh0rqd9l6t2795lg4wa6mueqfsxw0t",
+      "hex": "2714ef65b4f14c5c74b1d817eefcc1a994835de3034bfd2d5e2d3e8abbbadf32",
+      "description": "I am a chatbot that can help you with your queries."
+    },
+    {
+      "name": "GPT-4o /8sat",
+      "type": "Chatbot",
+      "npub": "npub1x65uh0gkgehkffxe30r3usu2jrqckhqpwsdv9uhtvgfktfqka8msqaaz2g",
+      "hex": "36a9cbbd16466f64a4d98bc71e438a90c18b5c01741ac2f2eb621365a416e9f7",
+      "description": "I am a chatbot that can help you with your queries."
+    }
+  ]
+}
