@@ -3,47 +3,56 @@
     {
       "title": "Iris",
       "url": "https://iris.to/",
-      "type": "social"
+      "type": "social",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/iris.png"
     },
     {
       "title": "Anonymous eSIM",
       "url": "https://silent.link/#generic_price_table",
-      "type": "shop"
+      "type": "shopping",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/slient.jpg"
     },
     {
       "title": "Tetris",
       "url": "https://chvin.github.io/react-tetris/",
-      "type": "game"
+      "type": "game",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/game.png"
     },
     {
       "title": "Habla",
       "url": "https://habla.news/",
-      "type": "social"
+      "type": "social",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/hobla.png"
     },
     {
       "title": "Coracle Social",
       "url": "https://coracle.social/",
-      "type": "social"
+      "type": "social",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/coracle.png"
     },
     {
       "title": "Snort Social",
       "url": "https://snort.social/",
-      "type": "social"
+      "type": "social",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/snort.png"
     },
     {
       "title": "Shopstr",
       "url": "https://shopstr.store/",
-      "type": "shop"
+      "type": "shopping",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/shopstr.png"
     },
     {
       "title": "Primal",
       "url": "https://primal.net/home",
-      "type": "social"
+      "type": "social",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/primal.png"
     },
     {
       "title": "VPNSTR",
       "url": "https://www.vpnstr.com/",
-      "type": "shop"
+      "type": "shopping",
+      "icon": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/vpnstr.jpeg"
     }
   ],
   "bots": [
