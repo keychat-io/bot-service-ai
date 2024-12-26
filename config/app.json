@@ -19,15 +19,6 @@
       ]
     },
     {
-      "title": "LNVPN - Privacy-Focused VPN",
-      "description": "Secure your privacy with LNVPN",
-      "url1": "https://lnvpn.net/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lnvpn.png",
-      "categories": [
-        "marketplace"
-      ]
-    },
-    {
       "title": "Iris",
       "description": "Iris - Connecting People",
       "url1": "https://iris.to/",
@@ -46,15 +37,6 @@
       ]
     },
     {
-      "title": "Tetris",
-      "description": "Tetris - A classic game",
-      "url1": "https://chvin.github.io/react-tetris/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/game.png",
-      "categories": [
-        "game"
-      ]
-    },
-    {
       "title": "Nostrends",
       "description": "See what's trending on Nostr",
       "img": "https://cdn.satellite.earth/8eb3b7475962a4d9bd907bb28731835a4ecd93da7071091aeeb6fe3de89d201e.png",
@@ -70,6 +52,22 @@
       ],
       "url2": "https://github.com/akiomik/nostrends",
       "url1": "https://nostrends.vercel.app/"
+    },
+    {
+      "title": "Highlighter",
+      "description": "Discover and share curated insights by people you trust",
+      "img": "https://cdn.satellite.earth/cea3aaa17c24a51bb4f18e3de40fab722c0393fd730045f577538e40844e8b7f.svg",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "blogging"
+      ],
+      "fulltext": "Highlighter Discover and share curated insights by people you trust https://highlighter.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://highlighter.com/"
     },
     {
       "title": "Stacker News",
@@ -188,22 +186,6 @@
       "url2": "https://npub.pro/"
     },
     {
-      "title": "Highlighter",
-      "description": "Discover and share curated insights by people you trust",
-      "img": "https://cdn.satellite.earth/cea3aaa17c24a51bb4f18e3de40fab722c0393fd730045f577538e40844e8b7f.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "blogging"
-      ],
-      "fulltext": "Highlighter Discover and share curated insights by people you trust https://highlighter.com/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://highlighter.com/"
-    },
-    {
       "title": "Snort",
       "description": "Make Nostr sexy",
       "img": "https://cdn.satellite.earth/bcdaa1704da7ab79c222de2ad8197d148f925f53ce8cfc23ecfb5e83d976f9df.svg",
@@ -219,6 +201,24 @@
       ],
       "url2": "https://github.com/v0l/snort",
       "url1": "https://snort.social/"
+    },
+    {
+      "title": "LNVPN - Privacy-Focused VPN",
+      "description": "Secure your privacy with LNVPN",
+      "url1": "https://lnvpn.net/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lnvpn.png",
+      "categories": [
+        "marketplace"
+      ]
+    },
+    {
+      "title": "Tetris",
+      "description": "Tetris - A classic game",
+      "url1": "https://chvin.github.io/react-tetris/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/game.png",
+      "categories": [
+        "game"
+      ]
     }
   ],
   "bots": [
