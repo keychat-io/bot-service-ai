@@ -70,22 +70,6 @@
       ]
     },
     {
-      "title": "Yakihonne",
-      "description": "Publish and curate long-form content",
-      "img": "https://cdn.satellite.earth/4c63603f9e9539a230d0cdb3657f9d2185830209056b7c2b38f95bfd603cca79.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "blogging"
-      ],
-      "fulltext": "Yakihonne Publish and curate long-form content https://yakihonne.com/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://yakihonne.com/"
-    },
-    {
       "title": "Coracle",
       "description": "Nostr, the easy way.",
       "img": "https://coracle-media.us-southeast-1.linodeobjects.com/logomark-light.png",
@@ -103,22 +87,6 @@
       "url1": "https://coracle.social"
     },
     {
-      "title": "Nostr Band",
-      "description": "Nostr data and statistics advanced search.",
-      "img": "https://cdn.satellite.earth/f3088e283f25a4542417178a9f8906296ff9117b9a29c55d1caf793b618ae19c.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "social"
-      ],
-      "fulltext": "Nostr Band Nostr data and statistics advanced search. https://nostr.band/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://nostr.band/"
-    },
-    {
       "title": "Habla",
       "description": "A long form content client for nostr notes",
       "img": "https://cdn.satellite.earth/270694a2f68d486a4f97dfafed7622839869a8759161dfe9946f64a1418a1885.svg",
@@ -134,22 +102,6 @@
       ],
       "url2": "https://github.com/verbiricha/habla",
       "url1": "https://habla.news/"
-    },
-    {
-      "title": "npub.pro",
-      "description": "Website from your nostr content",
-      "img": "https://cdn.satellite.earth/47d5e9ee499e816d06ef5b5920b5922259becc035df51df542293f3c036d5996.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "social"
-      ],
-      "fulltext": "npub.pro Website from your nostr content https://npub.pro/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://npub.pro/"
     },
     {
       "title": "Snort",
@@ -201,15 +153,6 @@
         "web"
       ],
       "url2": "https://shopstr.store/"
-    },
-    {
-      "title": "Anonymous eSIM",
-      "description": "Anonymous eSIM - Secure your internet",
-      "url1": "https://silent.link/#generic_price_table",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/slient.jpg",
-      "categories": [
-        "marketplace"
-      ]
     },
     {
       "title": "Tetris",
