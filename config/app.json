@@ -28,46 +28,21 @@
       ]
     },
     {
-      "title": "Nostrends",
-      "description": "See what's trending on Nostr",
-      "img": "https://cdn.satellite.earth/8eb3b7475962a4d9bd907bb28731835a4ecd93da7071091aeeb6fe3de89d201e.png",
+      "title": "Snort",
+      "description": "Make Nostr sexy",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/snort.png",
       "platforms": [
         "web"
       ],
       "categories": [
         "social"
       ],
-      "fulltext": "Nostrends See what's trending on Nostr https://nostrends.vercel.app/ https://github.com/akiomik/nostrends",
+      "fulltext": "Snort Make Nostr sexy https://snort.social/ https://github.com/v0l/snort",
       "tag": [
         "web"
       ],
-      "url2": "https://github.com/akiomik/nostrends",
-      "url1": "https://nostrends.vercel.app/"
-    },
-    {
-      "title": "Highlighter",
-      "description": "Discover and share curated insights by people you trust",
-      "img": "https://cdn.satellite.earth/cea3aaa17c24a51bb4f18e3de40fab722c0393fd730045f577538e40844e8b7f.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "blogging"
-      ],
-      "fulltext": "Highlighter Discover and share curated insights by people you trust https://highlighter.com/",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://highlighter.com/"
-    },
-    {
-      "title": "Stacker News",
-      "description": "Internet communities that pay you Bitcoin",
-      "url1": "https://stacker.news/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
-      "categories": [
-        "blogging"
-      ]
+      "url2": "https://github.com/v0l/snort",
+      "url1": "https://snort.social/"
     },
     {
       "title": "Coracle",
@@ -87,9 +62,26 @@
       "url1": "https://coracle.social"
     },
     {
+      "title": "Nostrends",
+      "description": "See what's trending on Nostr",
+      "img": "https://cdn.satellite.earth/8eb3b7475962a4d9bd907bb28731835a4ecd93da7071091aeeb6fe3de89d201e.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "social"
+      ],
+      "fulltext": "Nostrends See what's trending on Nostr https://nostrends.vercel.app/ https://github.com/akiomik/nostrends",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://github.com/akiomik/nostrends",
+      "url1": "https://nostrends.vercel.app/"
+    },
+    {
       "title": "Habla",
       "description": "A long form content client for nostr notes",
-      "img": "https://cdn.satellite.earth/270694a2f68d486a4f97dfafed7622839869a8759161dfe9946f64a1418a1885.svg",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/hobla.png",
       "platforms": [
         "web"
       ],
@@ -104,23 +96,6 @@
       "url1": "https://habla.news/"
     },
     {
-      "title": "Snort",
-      "description": "Make Nostr sexy",
-      "img": "https://cdn.satellite.earth/bcdaa1704da7ab79c222de2ad8197d148f925f53ce8cfc23ecfb5e83d976f9df.svg",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "social"
-      ],
-      "fulltext": "Snort Make Nostr sexy https://snort.social/ https://github.com/v0l/snort",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://github.com/v0l/snort",
-      "url1": "https://snort.social/"
-    },
-    {
       "title": "LNVPN - Privacy-Focused VPN",
       "description": "Secure your privacy with LNVPN",
       "url1": "https://lnvpn.net/",
@@ -128,6 +103,22 @@
       "categories": [
         "marketplace"
       ]
+    },
+    {
+      "title": "Highlighter",
+      "description": "Discover and share curated insights by people you trust",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/highlighter.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "blogging"
+      ],
+      "fulltext": "Highlighter Discover and share curated insights by people you trust https://highlighter.com/",
+      "tag": [
+        "web"
+      ],
+      "url2": "https://highlighter.com/"
     },
     {
       "title": "VPNSTR",
