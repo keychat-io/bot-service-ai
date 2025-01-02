@@ -170,5 +170,7 @@
       "hex": "36a9cbbd16466f64a4d98bc71e438a90c18b5c01741ac2f2eb621365a416e9f7",
       "description": "I am a chatbot that can help you with your queries."
     }
-  ]
+  ],
+  "iOSVersion": "1.25.1+6302",
+  "androidVersion": "1.25.1+6302"
 }
