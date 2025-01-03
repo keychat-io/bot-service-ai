@@ -24,7 +24,7 @@
       "url1": "https://iris.to/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/iris.png",
       "categories": [
-        "social"
+        "nostr"
       ]
     },
     {
@@ -35,7 +35,7 @@
         "web"
       ],
       "categories": [
-        "social"
+        "nostr"
       ],
       "fulltext": "Snort Make Nostr sexy https://snort.social/ https://github.com/v0l/snort",
       "tag": [
@@ -52,7 +52,7 @@
         "web"
       ],
       "categories": [
-        "social"
+        "nostr"
       ],
       "fulltext": "Coracle Nostr, the easy way. https://coracle.social https://github.com/coracle-social/coracle",
       "tag": [
@@ -69,7 +69,7 @@
         "web"
       ],
       "categories": [
-        "social"
+        "nostr"
       ],
       "fulltext": "Nostrends See what's trending on Nostr https://nostrends.vercel.app/ https://github.com/akiomik/nostrends",
       "tag": [
@@ -86,7 +86,7 @@
         "web"
       ],
       "categories": [
-        "blogging"
+        "nostr"
       ],
       "fulltext": "Habla A long form content client for nostr notes https://habla.news/ https://github.com/verbiricha/habla",
       "tag": [
@@ -96,15 +96,6 @@
       "url1": "https://habla.news/"
     },
     {
-      "title": "LNVPN - Privacy-Focused VPN",
-      "description": "Secure your privacy with LNVPN",
-      "url1": "https://lnvpn.net/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lnvpn.png",
-      "categories": [
-        "marketplace"
-      ]
-    },
-    {
       "title": "Highlighter",
       "description": "Discover and share curated insights by people you trust",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/highlighter.png",
@@ -112,13 +103,22 @@
         "web"
       ],
       "categories": [
-        "blogging"
+        "nostr"
       ],
       "fulltext": "Highlighter Discover and share curated insights by people you trust https://highlighter.com/",
       "tag": [
         "web"
       ],
       "url2": "https://highlighter.com/"
+    },
+    {
+      "title": "LNVPN - Privacy-Focused VPN",
+      "description": "Secure your privacy with LNVPN",
+      "url1": "https://lnvpn.net/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lnvpn.png",
+      "categories": [
+        "marketplace"
+      ]
     },
     {
       "title": "VPNSTR",
