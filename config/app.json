@@ -19,6 +19,15 @@
       ]
     },
     {
+      "title": "Jumble",
+      "description": "A beautiful nostr client focused on browsing relay feeds",
+      "url1": "https://jumble.social/",
+      "img": "https://jumble.social/apple-touch-icon.png",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Iris",
       "description": "Iris - Connecting People",
       "url1": "https://iris.to/",
