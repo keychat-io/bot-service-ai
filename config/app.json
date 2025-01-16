@@ -19,6 +19,15 @@
       ]
     },
     {
+      "title": "BTCNav",
+      "description": "A Portal to Bitcoin Ecosystem",
+      "url1": "https://btcnav.org/",
+      "img": "https://btcnav.org/static/img-btc/btc.png",
+      "categories": [
+        "bitcoin"
+      ]
+    },
+    {
       "title": "Jumble",
       "description": "A beautiful nostr client focused on browsing relay feeds",
       "url1": "https://jumble.social/",
@@ -119,6 +128,21 @@
         "web"
       ],
       "url2": "https://highlighter.com/"
+    },
+    {
+      "title": "chachi",
+      "description": "A relay-based group chat client",
+      "img": "https://chachi.chat/favicon.png",
+      "platforms": [
+        "web"
+      ],
+      "categories": [
+        "nostr"
+      ],
+      "tag": [
+        "web"
+      ],
+      "url2": "https://chachi.chat/"
     },
     {
       "title": "LNVPN - Privacy-Focused VPN",
