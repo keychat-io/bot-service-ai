@@ -145,6 +145,15 @@
       "url2": "https://chachi.chat/"
     },
     {
+      "title": "Athenut",
+      "description": "Privacy-preserving web search powered by Kagi and Cashu.",
+      "url1": "https://athenut.com/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/athenut.png",
+      "categories": [
+        "marketplace"
+      ]
+    },
+    {
       "title": "LNVPN - Privacy-Focused VPN",
       "description": "Secure your privacy with LNVPN",
       "url1": "https://lnvpn.net/",
@@ -177,15 +186,6 @@
         "web"
       ],
       "url2": "https://shopstr.store/"
-    },
-    {
-      "title": "Tetris",
-      "description": "Tetris - A classic game",
-      "url1": "https://chvin.github.io/react-tetris/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/game.png",
-      "categories": [
-        "game"
-      ]
     }
   ],
   "bots": [
