@@ -133,16 +133,37 @@
       "title": "chachi",
       "description": "A relay-based group chat client",
       "img": "https://chachi.chat/favicon.png",
-      "platforms": [
-        "web"
-      ],
       "categories": [
         "nostr"
       ],
-      "tag": [
-        "web"
-      ],
       "url2": "https://chachi.chat/"
+    },
+    {
+      "title": "nosotros",
+      "description": "A decentralized social network based on nostr protocol",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/nosotros.png",
+      "categories": [
+        "nostr"
+      ],
+      "url2": "https://nosotros.app/"
+    },
+    {
+      "title": "npub",
+      "description": "Beautiful nostr-based websites for creators",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/npub.png",
+      "categories": [
+        "nostr"
+      ],
+      "url2": "https://npub.pro/"
+    },
+    {
+      "title": "noStrudel",
+      "description": "A simple nostr web client focused on exploring nostr",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/nostrudel.png",
+      "categories": [
+        "nostr"
+      ],
+      "url2": "https://nostrudel.ninja/"
     },
     {
       "title": "Athenut",
