@@ -166,6 +166,15 @@
       "url2": "https://nostrudel.ninja/"
     },
     {
+      "title": "npub.cash",
+      "description": "A nostr native Lightning Address for everyone",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/npubcash.png",
+      "categories": [
+        "nostr"
+      ],
+      "url2": "https://npub.cash/"
+    },
+    {
       "title": "Athenut",
       "description": "Privacy-preserving web search powered by Kagi and Cashu.",
       "url1": "https://athenut.com/",
