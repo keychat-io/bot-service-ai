@@ -204,7 +204,7 @@
     {
       "title": "Shopstr",
       "description": "Buy and sell for sats over nostr",
-      "img": "https://cdn.satellite.earth/548fb6eb0ce5def851fb6d0dabf0e0e31d427abc23fb10fd2ea3838724886202.png",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/shopstr.png",
       "platforms": [
         "web"
       ],
