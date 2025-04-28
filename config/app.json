@@ -37,6 +37,24 @@
       ]
     },
     {
+      "title": "Stacker News",
+      "description": "It's like Hacker News but we pay you Bitcoin.",
+      "url1": "https://stacker.news/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Chachi",
+      "description": "A relay-based group chat client",
+      "img": "https://chachi.chat/favicon.png",
+      "categories": [
+        "nostr"
+      ],
+      "url1": "https://chachi.chat/groups.0xchat.com/2gVadOYXRyzc2ne6"
+    },
+    {
       "title": "Iris",
       "description": "Iris - Connecting People",
       "url1": "https://iris.to/",
@@ -128,15 +146,6 @@
         "web"
       ],
       "url2": "https://highlighter.com/"
-    },
-    {
-      "title": "chachi",
-      "description": "A relay-based group chat client",
-      "img": "https://chachi.chat/favicon.png",
-      "categories": [
-        "nostr"
-      ],
-      "url2": "https://chachi.chat/"
     },
     {
       "title": "nosotros",
