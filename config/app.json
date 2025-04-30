@@ -19,15 +19,6 @@
       ]
     },
     {
-      "title": "BTCNav",
-      "description": "A Portal to Bitcoin Ecosystem",
-      "url1": "https://btcnav.org/",
-      "img": "https://btcnav.org/static/img-btc/btc.png",
-      "categories": [
-        "bitcoin"
-      ]
-    },
-    {
       "title": "Jumble",
       "description": "A beautiful nostr client focused on browsing relay feeds",
       "url1": "https://jumble.social/",
