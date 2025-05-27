@@ -1,21 +1,30 @@
 {
   "browserRecommend": [
     {
-      "title": "No Bullshit Bitcoin",
-      "description": "No Bullshit Bitcoin Is a Bitcoin News Desk Without Ads, Paywalls, or Clickbait.",
-      "url1": "https://www.nobsbitcoin.com/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/nobsbitcoin.png",
+      "title": "Blossom Drive",
+      "description": "A cloud drive built using blossom servers",
+      "url1": "https://blossom.hzrd149.com/",
+      "img": "https://blossom.hzrd149.com/pwa-maskable-192x192.png",
       "categories": [
-        "bitcoin"
+        "nostr"
       ]
     },
     {
-      "title": "Bitcoin Optech",
-      "description": "Helping Bitcoin-based businesses integrate scaling technology",
-      "url1": "https://bitcoinops.org/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/bitcoinops.png",
+      "title": "Routstr",
+      "description": "The future of AI access is permissionless, private, and decentralized",
+      "url1": "https://chat.routstr.com",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/routstr.png",
       "categories": [
-        "bitcoin"
+        "nostr"
+      ]
+    },
+    {
+      "title": "Wavlake",
+      "description": "Stream Anywhere, Earn Everywhere. We envision a new, online world where creators and listeners can freely transact with one another in an open ecosystem.Learn more",
+      "url1": "https://wavlake.com/",
+      "img": "https://firebasestorage.googleapis.com/v0/b/wavlake-alpha.appspot.com/o/assets%2Fwavlake-icon-750.png?alt=media&token=5e3f573f-9f11-45b8-96ce-913c42874211",
+      "categories": [
+        "nostr"
       ]
     },
     {
