@@ -75,21 +75,6 @@
       "url1": "https://coracle.social"
     },
     {
-      "title": "Nostrends",
-      "description": "See what's trending on Nostr",
-      "img": "https://cdn.satellite.earth/8eb3b7475962a4d9bd907bb28731835a4ecd93da7071091aeeb6fe3de89d201e.png",
-      "platforms": [
-        "web"
-      ],
-      "author": "akiomik",
-      "authorHomepage": "https://github.com/akiomik",
-      "categories": [
-        "nostr"
-      ],
-      "url2": "https://github.com/akiomik/nostrends",
-      "url1": "https://nostrends.vercel.app/"
-    },
-    {
       "title": "Highlighter",
       "description": "Discover and share curated insights by people you trust",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/highlighter.png",
@@ -152,17 +137,6 @@
       "url2": "https://npub.cash/"
     },
     {
-      "title": "Athenut",
-      "description": "Privacy-preserving web search powered by Kagi and Cashu.",
-      "url1": "https://athenut.com/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/athenut.png",
-      "author": "thesimplekid",
-      "authorHomepage": "https://github.com/thesimplekid",
-      "categories": [
-        "marketplace"
-      ]
-    },
-    {
       "title": "LNVPN - Privacy-Focused VPN",
       "description": "Secure your privacy with LNVPN",
       "url1": "https://lnvpn.net/",
@@ -220,17 +194,6 @@
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/routstr.png",
       "author": "routstr",
       "authorHomepage": "https://github.com/routstr",
-      "categories": [
-        "marketplace"
-      ]
-    },
-    {
-      "title": "Wavlake",
-      "description": "Stream Anywhere, Earn Everywhere. We envision a new, online world where creators and listeners can freely transact with one another in an open ecosystem.Learn more",
-      "url1": "https://wavlake.com/",
-      "img": "https://firebasestorage.googleapis.com/v0/b/wavlake-alpha.appspot.com/o/assets%2Fwavlake-icon-750.png?alt=media&token=5e3f573f-9f11-45b8-96ce-913c42874211",
-      "author": "Wavlake Inc",
-      "authorHomepage": "https://primal.net/wavlake",
       "categories": [
         "marketplace"
       ]
