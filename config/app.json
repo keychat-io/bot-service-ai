@@ -5,6 +5,8 @@
       "description": "A beautiful nostr client focused on browsing relay feeds",
       "url1": "https://jumble.social/",
       "img": "https://jumble.social/apple-touch-icon.png",
+      "author": "CodyTseng",
+      "authorHomepage": "https://github.com/CodyTseng",
       "categories": [
         "nostr"
       ]
@@ -14,6 +16,8 @@
       "description": "It's like Hacker News but we pay you Bitcoin.",
       "url1": "https://stacker.news/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
+      "author": "stackernews",
+      "authorHomepage": "https://github.com/stackernews",
       "categories": [
         "nostr"
       ]
@@ -22,6 +26,8 @@
       "title": "Chachi",
       "description": "A relay-based group chat client",
       "img": "https://chachi.chat/favicon.png",
+      "author": "purrgrammer",
+      "authorHomepage": "https://github.com/purrgrammer",
       "categories": [
         "nostr"
       ],
@@ -32,6 +38,8 @@
       "description": "Iris - Connecting People",
       "url1": "https://iris.to/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/iris.png",
+      "author": "irislib",
+      "authorHomepage": "https://github.com/irislib",
       "categories": [
         "nostr"
       ]
@@ -43,12 +51,10 @@
       "platforms": [
         "web"
       ],
+      "author": "Kieran",
+      "authorHomepage": "https://git.v0l.io/Kieran/snort",
       "categories": [
         "nostr"
-      ],
-      "fulltext": "Snort Make Nostr sexy https://snort.social/ https://github.com/v0l/snort",
-      "tag": [
-        "web"
       ],
       "url2": "https://github.com/v0l/snort",
       "url1": "https://snort.social/"
@@ -60,12 +66,10 @@
       "platforms": [
         "web"
       ],
+      "author": "hodlbod",
+      "authorHomepage": "https://coracle.social/people/nprofile1qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcpr3mhxue69uhksmmyd33x7epwvdhhyctrd3jjuar0dak8xtcqyztuwzjyxe4x2dwpgken87tna2rdlhpd02va5cvvgrrywpddnr3jyd0qwsn",
       "categories": [
         "nostr"
-      ],
-      "fulltext": "Coracle Nostr, the easy way. https://coracle.social https://github.com/coracle-social/coracle",
-      "tag": [
-        "web"
       ],
       "url2": "https://github.com/coracle-social/coracle",
       "url1": "https://coracle.social"
@@ -77,32 +81,13 @@
       "platforms": [
         "web"
       ],
+      "author": "akiomik",
+      "authorHomepage": "https://github.com/akiomik",
       "categories": [
         "nostr"
-      ],
-      "fulltext": "Nostrends See what's trending on Nostr https://nostrends.vercel.app/ https://github.com/akiomik/nostrends",
-      "tag": [
-        "web"
       ],
       "url2": "https://github.com/akiomik/nostrends",
       "url1": "https://nostrends.vercel.app/"
-    },
-    {
-      "title": "Habla",
-      "description": "A long form content client for nostr notes",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/hobla.png",
-      "platforms": [
-        "web"
-      ],
-      "categories": [
-        "nostr"
-      ],
-      "fulltext": "Habla A long form content client for nostr notes https://habla.news/ https://github.com/verbiricha/habla",
-      "tag": [
-        "web"
-      ],
-      "url2": "https://github.com/verbiricha/habla",
-      "url1": "https://habla.news/"
     },
     {
       "title": "Highlighter",
@@ -111,6 +96,8 @@
       "platforms": [
         "web"
       ],
+      "author": "highlighter",
+      "authorHomepage": "https://github.com/highlighter",
       "categories": [
         "nostr"
       ],
@@ -124,6 +111,8 @@
       "title": "nosotros",
       "description": "A decentralized social network based on nostr protocol",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/nosotros.png",
+      "author": "cesardeazevedo",
+      "authorHomepage": "https://github.com/cesardeazevedo",
       "categories": [
         "nostr"
       ],
@@ -133,6 +122,8 @@
       "title": "npub",
       "description": "Beautiful nostr-based websites for creators",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/npub.png",
+      "author": "Nostr.Band",
+      "authorHomepage": "https://Nostr.Band",
       "categories": [
         "nostr"
       ],
@@ -142,6 +133,8 @@
       "title": "noStrudel",
       "description": "A simple nostr web client focused on exploring nostr",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/nostrudel.png",
+      "author": "hzrd149",
+      "authorHomepage": "https://github.com/hzrd149",
       "categories": [
         "nostr"
       ],
@@ -151,6 +144,8 @@
       "title": "npub.cash",
       "description": "A nostr native Lightning Address for everyone",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/npubcash.png",
+      "author": "cashubtc",
+      "authorHomepage": "https://github.com/cashubtc",
       "categories": [
         "nostr"
       ],
@@ -161,6 +156,8 @@
       "description": "Privacy-preserving web search powered by Kagi and Cashu.",
       "url1": "https://athenut.com/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/athenut.png",
+      "author": "thesimplekid",
+      "authorHomepage": "https://github.com/thesimplekid",
       "categories": [
         "marketplace"
       ]
@@ -170,6 +167,8 @@
       "description": "Secure your privacy with LNVPN",
       "url1": "https://lnvpn.net/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lnvpn.png",
+      "author": "lnvpn",
+      "authorHomepage": "https://nostr.at/npub1qmw7jhczdr8yqy5t7u72d6z4v7u9va5gaff0ynwd2u6wwlzs7tvs694er8",
       "categories": [
         "marketplace"
       ]
@@ -179,6 +178,8 @@
       "description": "VPNSTR - Secure your internet",
       "url1": "https://www.vpnstr.com/",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/vpnstr.jpeg",
+      "author": "BTCMVP",
+      "authorHomepage": "https://btcmvp.com/",
       "categories": [
         "marketplace"
       ]
@@ -190,6 +191,8 @@
       "platforms": [
         "web"
       ],
+      "author": "shopstr-eng",
+      "authorHomepage": "https://github.com/shopstr-eng",
       "categories": [
         "marketplace"
       ],
@@ -204,6 +207,8 @@
       "description": "A cloud drive built using blossom servers",
       "url1": "https://blossom.hzrd149.com/",
       "img": "https://blossom.hzrd149.com/pwa-maskable-192x192.png",
+      "author": "hzrd149",
+      "authorHomepage": "https://github.com/hzrd149",
       "categories": [
         "marketplace"
       ]
@@ -213,6 +218,8 @@
       "description": "The future of AI access is permissionless, private, and decentralized",
       "url1": "https://chat.routstr.com",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/routstr.png",
+      "author": "routstr",
+      "authorHomepage": "https://github.com/routstr",
       "categories": [
         "marketplace"
       ]
@@ -222,6 +229,8 @@
       "description": "Stream Anywhere, Earn Everywhere. We envision a new, online world where creators and listeners can freely transact with one another in an open ecosystem.Learn more",
       "url1": "https://wavlake.com/",
       "img": "https://firebasestorage.googleapis.com/v0/b/wavlake-alpha.appspot.com/o/assets%2Fwavlake-icon-750.png?alt=media&token=5e3f573f-9f11-45b8-96ce-913c42874211",
+      "author": "Wavlake Inc",
+      "authorHomepage": "https://primal.net/wavlake",
       "categories": [
         "marketplace"
       ]
