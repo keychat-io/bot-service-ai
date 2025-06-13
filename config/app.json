@@ -137,6 +137,28 @@
       "url2": "https://npub.cash/"
     },
     {
+      "title": "Nostter - trend",
+      "description": "Nostr client for web.",
+      "url1": "https://nostter.app/trend",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/nostter.png",
+      "author": "SnowCait",
+      "authorHomepage": "https://github.com/SnowCait/nostter",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "PayPerQ",
+      "description": "PPQ.AI - Use Bitcoin and Crypto to get instant access all of the best AI models. Pay Per Use. No subscriptions. No registration required.",
+      "url1": "https://ppq.ai/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/ppq.png",
+      "author": "PayPerQ",
+      "authorHomepage": "https://primal.net/p/nprofile1qqsdy27dk8f9qk7qvrm94pkdtus9xtk970jpcp4w48k6cw0khfm06mss64u96",
+      "categories": [
+        "marketplace"
+      ]
+    },
+    {
       "title": "LNVPN - Privacy-Focused VPN",
       "description": "Secure your privacy with LNVPN",
       "url1": "https://lnvpn.net/",
