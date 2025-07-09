@@ -1,6 +1,17 @@
 {
   "browserRecommend": [
     {
+      "title": "Fliappy Nostrich",
+      "description": "A nostr game",
+      "url1": "https://downisontheup.ca/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/downisontheup.png",
+      "author": "downisontheup",
+      "authorHomepage": "https://downisontheup.ca/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Jumble",
       "description": "A beautiful nostr client focused on browsing relay feeds",
       "url1": "https://jumble.social/",
