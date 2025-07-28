@@ -3,10 +3,10 @@
     {
       "title": "Fliappy Nostrich",
       "description": "A nostr game",
-      "url1": "https://downisontheup.ca/",
+      "url1": "https://flappy-nostrich.vercel.app",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/downisontheup.png",
       "author": "downisontheup",
-      "authorHomepage": "https://downisontheup.ca/",
+      "authorHomepage": "https://flappy-nostrich.vercel.app",
       "categories": [
         "nostr"
       ]
