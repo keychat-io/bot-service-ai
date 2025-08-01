@@ -12,6 +12,17 @@
       ]
     },
     {
+      "title": "YakBak - Voice Messages on Nostr",
+      "description": "Record and share voice messages with your friends and followers on the Nostr network. A simple, decentralized voice messaging app.",
+      "url1": "https://yakbak.app/",
+      "img": "https://yakbak.app/yakbak-logo.png",
+      "author": "downisontheup",
+      "authorHomepage": "https://yakbak.app/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Jumble",
       "description": "A beautiful nostr client focused on browsing relay feeds",
       "url1": "https://jumble.social/",
