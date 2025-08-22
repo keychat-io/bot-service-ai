@@ -1,6 +1,39 @@
 {
   "browserRecommend": [
     {
+      "title": "Jumble",
+      "description": "A beautiful nostr client focused on browsing relay feeds",
+      "url1": "https://jumble.social/",
+      "img": "https://jumble.social/apple-touch-icon.png",
+      "author": "CodyTseng",
+      "authorHomepage": "https://github.com/CodyTseng",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Lumilumi",
+      "description": "The nostr web client",
+      "url1": "https://lumilumi.app/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lumilumi.png",
+      "author": "TsukemonoGit",
+      "authorHomepage": "https://github.com/TsukemonoGit/lumilumi",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Stacker News",
+      "description": "It's like Hacker News but we pay you Bitcoin.",
+      "url1": "https://stacker.news/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
+      "author": "stackernews",
+      "authorHomepage": "https://github.com/stackernews",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Fliappy Nostrich",
       "description": "A nostr game",
       "url1": "https://flappy-nostrich.vercel.app",
@@ -18,28 +51,6 @@
       "img": "https://yakbak.app/yakbak-logo.png",
       "author": "downisontheup",
       "authorHomepage": "https://yakbak.app/",
-      "categories": [
-        "nostr"
-      ]
-    },
-    {
-      "title": "Jumble",
-      "description": "A beautiful nostr client focused on browsing relay feeds",
-      "url1": "https://jumble.social/",
-      "img": "https://jumble.social/apple-touch-icon.png",
-      "author": "CodyTseng",
-      "authorHomepage": "https://github.com/CodyTseng",
-      "categories": [
-        "nostr"
-      ]
-    },
-    {
-      "title": "Stacker News",
-      "description": "It's like Hacker News but we pay you Bitcoin.",
-      "url1": "https://stacker.news/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/stack_news.png",
-      "author": "stackernews",
-      "authorHomepage": "https://github.com/stackernews",
       "categories": [
         "nostr"
       ]
