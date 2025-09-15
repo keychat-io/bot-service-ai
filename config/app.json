@@ -203,28 +203,6 @@
       ]
     },
     {
-      "title": "LNVPN - Privacy-Focused VPN",
-      "description": "Secure your privacy with LNVPN",
-      "url1": "https://lnvpn.net/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/lnvpn.png",
-      "author": "lnvpn",
-      "authorHomepage": "https://nostr.at/npub1qmw7jhczdr8yqy5t7u72d6z4v7u9va5gaff0ynwd2u6wwlzs7tvs694er8",
-      "categories": [
-        "marketplace"
-      ]
-    },
-    {
-      "title": "VPNSTR",
-      "description": "VPNSTR - Secure your internet",
-      "url1": "https://www.vpnstr.com/",
-      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/vpnstr.jpeg",
-      "author": "BTCMVP",
-      "authorHomepage": "https://btcmvp.com/",
-      "categories": [
-        "marketplace"
-      ]
-    },
-    {
       "title": "Shopstr",
       "description": "Buy and sell for sats over nostr",
       "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/shopstr.png",
