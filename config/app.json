@@ -232,6 +232,28 @@
       ]
     },
     {
+      "title": "nostr.build media uploader",
+      "description": "Upload any kind of media and get a link to post, or automatically uppload images straight from your keyboard. Free and paid accounts, Bitcoin only",
+      "url1": "https://nostr.build/",
+      "img": "https://nostr.build/apple-touch-icon.png",
+      "author": "nostr.build",
+      "authorHomepage": "https://nostr.build/",
+      "categories": [
+        "marketplace"
+      ]
+    },
+    {
+      "title": "nostr.land",
+      "description": "Welcome to the next generation of paid relays.",
+      "url1": "https://nostr.land/",
+      "img": "https://nostr.land/static/media/opengraph.png",
+      "author": "nostr.build",
+      "authorHomepage": "https://nostr.land/",
+      "categories": [
+        "marketplace"
+      ]
+    },
+    {
       "title": "Routstr",
       "description": "The future of AI access is permissionless, private, and decentralized",
       "url1": "https://chat.routstr.com",
