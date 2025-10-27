@@ -34,6 +34,17 @@
       ]
     },
     {
+      "title": "Zaptok",
+      "description": "Discover videos from creators around the world on the decentralized Nostr network.",
+      "url1": "https://zaptok.social/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/zaptok.png",
+      "author": "silentius-satoshi",
+      "authorHomepage": "https://github.com/silentius-satoshi/ZapTok-web-app",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Fliappy Nostrich",
       "description": "A nostr game",
       "url1": "https://flappy-nostrich.vercel.app",
