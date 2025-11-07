@@ -12,6 +12,17 @@
       ]
     },
     {
+      "title": "AQSTR",
+      "description": "Earn Bitcoin Through Social Tasks & Engagement",
+      "url1": "https://aqstr.com/",
+      "img": "https://aqstr.com/social-og.jpeg",
+      "author": "AQSTR",
+      "authorHomepage": "https://aqstr.com/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Lumilumi",
       "description": "The nostr web client",
       "url1": "https://lumilumi.app/",
