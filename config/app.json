@@ -12,6 +12,28 @@
       ]
     },
     {
+      "title": "Shosho - Live Stream on Nostr",
+      "description": "Stream your camera and chat with your friends and followers on Nostr live!",
+      "url1": "https://shosho.live/",
+      "img": "https://shosho.live/apple-touch-icon.png",
+      "author": "AQSTR",
+      "authorHomepage": "https://shosho.live/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Hivetalk Honey",
+      "description": "HiveTalk Honey dashboard - Manage rooms, events, and connections",
+      "url1": "https://honey.hivetalk.org/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/hivetalk.png",
+      "author": "Hivetalk",
+      "authorHomepage": "https://honey.hivetalk.org/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "AQSTR",
       "description": "Earn Bitcoin Through Social Tasks & Engagement",
       "url1": "https://aqstr.com/",
