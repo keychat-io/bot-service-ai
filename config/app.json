@@ -12,6 +12,50 @@
       ]
     },
     {
+      "title": "NoorNote",
+      "description": "A simple, elegant note-taking app built on Nostr protocol",
+      "url1": "https://noornote.app/",
+      "img": "https://noornote.app/favicon-32x32.png",
+      "author": "NoorNote",
+      "authorHomepage": "https://noornote.app/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Primal",
+      "description": "A beautiful Nostr client for discovering and connecting with people",
+      "url1": "https://primal.net/",
+      "img": "https://primal.net/public/primal-logo-large.png",
+      "author": "Primal",
+      "authorHomepage": "https://primal.net/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "MyNostrSpace",
+      "description": "An online community that lets you meet your friends' friends on Nostr",
+      "url1": "https://mynostrspace.com/",
+      "img": "https://mynostrspace.com/mynostrspace_logo.png",
+      "author": "MyNostrSpace",
+      "authorHomepage": "https://mynostrspace.com/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Nostria",
+      "description": "Your Social Network - Built for human connection on the decentralized Nostr protocol. No ads, no tracking.",
+      "url1": "https://nostria.app/",
+      "img": "https://www.nostria.app/assets/nostria-social.png",
+      "author": "Nostria",
+      "authorHomepage": "https://github.com/nostria-app",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "Shosho - Live Stream on Nostr",
       "description": "Stream your camera and chat with your friends and followers on Nostr live!",
       "url1": "https://shosho.live/",
