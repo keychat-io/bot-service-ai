@@ -134,7 +134,7 @@
     },
     {
       "title": "NoorNote",
-      "description": "A simple, elegant note-taking app built on Nostr protocol",
+      "description": "feature-rich, fast, secure Nostr client",
       "url1": "https://noornote.app/",
       "img": "https://noornote.app/favicon-32x32.png",
       "author": "NoorNote",
@@ -189,7 +189,7 @@
     },
     {
       "title": "Nostria",
-      "description": "Your Social Network - Built for human connection on the decentralized Nostr protocol. No ads, no tracking.",
+      "description": "Nostria is Your Social Network, built for human connection.",
       "url1": "https://nostria.app/",
       "img": "https://www.nostria.app/assets/nostria-social.png",
       "author": "Nostria",
