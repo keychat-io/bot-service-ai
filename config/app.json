@@ -320,6 +320,28 @@
       ]
     },
     {
+      "title": "Satellite",
+      "description": "satellite.earth",
+      "url1": "https://satellite.earth/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/satellite.png",
+      "author": "satellite",
+      "authorHomepage": "https://satellite.earth/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
+      "title": "Sunami - Nostr Music Client",
+      "description": "Discover and enjoy music on the decentralized Nostr network.",
+      "url1": "https://sunami.app/",
+      "img": "https://raw.githubusercontent.com/keychat-io/bot-service-ai/refs/heads/main/images/sunami.png",
+      "author": "sunami",
+      "authorHomepage": "https://sunami.app/",
+      "categories": [
+        "nostr"
+      ]
+    },
+    {
       "title": "YaKiHonne",
       "description": "A censorship and data ownership free protocol, you'll enjoy a fully decentralized media experience.",
       "url1": "https://yakihonne.com",
